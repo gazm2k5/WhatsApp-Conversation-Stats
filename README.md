@@ -7,5 +7,4 @@ Graphing Options include:
   Group messages: If you have that one friend who spams a thousand little messages at once, you can group these and count them as one.
   Bin size: If your WhatsApp chat has been going for a while, it might be too much to plot every day as a bar. Instead bin messages by week or month etc.
 
-
-The code has been written to be easily editable and understandable for Python beginners to edit, thus I have skipped sanatising inputs.
+The code is intended for people who know a little bit of Python, so I have skipped things like sanitising inputs. You just need to open main.py, configure everything in there and then run it.
